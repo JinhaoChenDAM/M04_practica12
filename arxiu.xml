@@ -1,0 +1,32 @@
+<students>
+  <student type="Games">
+    <name>Jinhao</name>
+    <surname>Chen</surname>
+    <email>jinhaochen@gmail.com</email>
+    <dni>123456789</dni>
+  </student>
+  <student type="Games">
+    <name>Guillermo</name>
+    <surname>Jaume</surname>
+    <email>guillermojaume@gmail.com</email>
+    <dni>213431231</dni>
+  </student>
+  <student type="Games">
+    <name>Federico</name>
+    <surname>Fuentes</surname>
+    <email>federicofuentes@gmail.com</email>
+    <dni>323456456</dni>
+  </student>
+  <student type="Games">
+    <name>Jack</name>
+    <surname>Sparrow</surname>
+    <email>jacksparrow@gmail.com</email>
+    <dni>234231456</dni>
+  </student>
+  <student type="Games">
+    <name>Jhon</name>
+    <surname>Casanovas</surname>
+    <email>jhoncasanovas@gmail.com</email>
+    <dni>234123445</dni>
+  </student>
+</students>
